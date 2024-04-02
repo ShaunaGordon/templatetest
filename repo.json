@@ -1310,13 +1310,13 @@
                     "dir": "cmake/Platform/Linux"
                 }
             ],
-            "download_source_uri": "https://github.com/shaunagordon/templatetest/releases/download/2.0/multiplayer-2.0.0-template.zip",
+            "download_source_uri": "https://github.com/shaunagordon/templatetest/releases/download/2.1/multiplayer-2.1.0.zip",
             "sha256": "4df1e7039ab64e0c531114a969d943635c248e5affc471faf4a710913be3bdf9",
             "versions_data": [
                 {
                     "sha256": "5450e61577c310972436f0bc84d89765e176569898713a884ce4620a94f2c23c",
                     "version": "2.0.0",
-                    "download_source_uri": "https://github.com/shaunagordon/templatetest/releases/download/2.0/multiplayer-2.0.0-template.zip"
+                    "download_source_uri": "https://github.com/shaunagordon/templatetest/releases/download/2.1/Multiplayer-2.1.0.zip"
                 }
             ]
         }
