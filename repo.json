@@ -404,10 +404,7 @@
         }
     ],
     "templates": [
-        "https://github.com/o3de/o3de-extras.git/Templates/Multiplayer",
-        "https://github.com/o3de/o3de-extras.git/Templates/Ros2FleetRobotTemplate",
-        "https://github.com/o3de/o3de-extras.git/Templates/Ros2ProjectTemplate",
-        "https://github.com/o3de/o3de-extras.git/Templates/Ros2RoboticManipulationTemplate"
+        "https://github.com/shaunagordon/templatetest.git/Templates/Multiplayer"
     ],
     "templates_data": [
         {
@@ -4979,41 +4976,6 @@
             "repo_uri": "https://raw.githubusercontent.com/o3de/o3de-extras/development",
             "download_source_uri": "https://github.com/o3de/o3de-extras/releases/download/2.0/ros2roboticmanipulationtemplate-1.1.0-template.zip",
             "sha256": "7efe89a56731ad2efda60eb302fc73ec9ddf4f1bbb89d9b3cd9a9e357e64d9d3"
-        }
-    ],
-    "projects_data": [
-        {
-            "project_name": "OpenXRTest",
-            "version": "1.0.0",
-            "project_id": "{947211d5-689a-437f-8ad7-7f558edcd40a}",
-            "repo_uri": "https://raw.githubusercontent.com/o3de/o3de-extras/development",
-            "origin": "https://github.com/o3de/o3de-extras",
-            "license": "For terms please see the LICENSE*.TXT files at the root of this distribution.",
-            "display_name": "OpenXRTest",
-            "summary": "A sample project that uses OpenXR.",
-            "canonical_tags": [
-                "Project"
-            ],
-            "user_tags": [
-                "OpenXRTest"
-            ],
-            "icon_path": "preview.png",
-            "engine": "o3de",
-            "external_subdirectories": [
-                "Gem"
-            ],
-            "restricted": "OpenXRTest",
-            "gem_names": [
-                "XR",
-                "OpenXRVk"
-            ],
-            "versions_data": [
-                {
-                    "sha256": "36e7ad0359f4e91ec287f409732e35c223bfeed47ab6f84109f80a56bf34e1fd",
-                    "version": "1.0.0",
-                    "download_source_uri": "https://github.com/o3de/o3de-extras/releases/download/2.0/openxrtest-1.0.0-project.zip"
-                }
-            ]
         }
     ]
 }
