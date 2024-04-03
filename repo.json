@@ -15,7 +15,7 @@
             "origin": "Open 3D Engine - o3de.org",
             "repo_uri": "https://raw.githubusercontent.com/shaunagordon/templatetest/main",
             "license": "https://opensource.org/licenses/MIT",
-            "display_name": "Multiplayer",
+            "display_name": "Multiplayer Template Test",
             "summary": "A multiplayer project template. Includes a built in network 3rd person player, player spawner, and network filtering example.",
             "canonical_tags": [
                 "Template",
